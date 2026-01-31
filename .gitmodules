@@ -1,3 +1,6 @@
 [submodule "openssl-cmake"]
 	path = openssl-cmake
 	url = https://github.com/janbar/openssl-cmake.git
+[submodule "kaios/system_core"]
+	path = kaios/system_core
+	url = https://android.googlesource.com/platform/system/core
